@@ -1,5 +1,5 @@
 <?php
-namespace factory\AbstractFactory;
+namespace Factory\AbstractFactory;
 
 interface Phone{
     public function make();
