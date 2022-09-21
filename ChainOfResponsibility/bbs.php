@@ -5,7 +5,7 @@ namespace Chain\bbs;
 
 
     /**
-     * 版主
+     * 版主1
      */
 class Broad
 {
